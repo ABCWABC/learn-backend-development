@@ -1,2 +1,2 @@
-# 언어 : java
-# TOOL : Intellij IDEA
+언어 : java
+TOOL : Intellij IDEA
